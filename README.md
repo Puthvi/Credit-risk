@@ -1,0 +1,2 @@
+# Credit-risk
+Credit risk- This project contains valuation and reduction of risk and cost in providing loans to eligible customers, here the challenging part is to identify the eligible customer who can repay the loan amount without any default. And also approaching a customer involves cost , hence identifying those customer who are interested in buying loan was again challenging. successfully provided solutions for the business problems by using various machine learning algorithms and data analysis methods to arrive in to conclusion.
